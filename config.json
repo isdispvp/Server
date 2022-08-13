@@ -1,0 +1,9 @@
+{
+	"ip":"IsdisMinecraftSmp.aternos.me",
+	"port": 17400,
+	"name": "Isdisaternos",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register (Ggod@shish1) (Ggod@shish1)",
+	"login-cmd":"/login (Ggod@shish1)"
+}
